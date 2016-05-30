@@ -5,10 +5,9 @@ This project was created for educational purposes, It uses machine learning and 
 
 **How To**
 * Open the 'CaptchaPredictor' in Netbeans 7.x or above to build jar
-* Use VisualStudio 2010 or greater to build 'Crawler' executable
 
-**Project consists of two modules**
-* Captcha crawler (Written in .NET)
+
+
 * Captcha Learner/Predictor
 
 ![alt tag](http://s25.postimg.org/yudzw0ukv/image.png)
@@ -20,7 +19,7 @@ This project was created for educational purposes, It uses machine learning and 
 
 **Tools Used**
 * Netbeans
-* Visual Studio
+
 
 
 Screenshots
