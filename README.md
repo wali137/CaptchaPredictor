@@ -8,7 +8,7 @@ This project was created for educational purposes, It uses machine learning and 
 
 
 
-* Captcha Learner/Predictor
+
 
 ![alt tag](http://s25.postimg.org/yudzw0ukv/image.png)
 
